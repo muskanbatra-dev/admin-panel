@@ -1,0 +1,30 @@
+{
+    "super-admin":[
+        {
+            "id": "1",
+            "name": "Laptop",
+            "price": 1400,
+            "image": "https://images.news18.com/ibnlive/uploads/2021/07/1627314288_dell-inspiron-5410-best-budget-laptops-amazon-prime-day-sale-16291070003x2.jpg?impolicy=website&width=510&height=356"
+          },
+          {
+            "id": "2",
+            "name": "Phone",
+            "price": 2400,
+            "image": "https://drop.ndtv.com/TECH/product_database/images/619201492915AM_635_amazon_fire_phone_new.jpeg"
+          },
+          {
+            "id": "3",
+            "name": "Charger",
+            "price": 1000,
+            "image": "https://m.media-amazon.com/images/I/915CT+FwbhL._AC_SL1500_.jpg"
+          }
+    ],
+    "admin":[
+        {
+            "id": "3",
+            "name": "Charger",
+            "price": 1000,
+            "image": "https://m.media-amazon.com/images/I/915CT+FwbhL._AC_SL1500_.jpg"
+          }
+    ]
+}
