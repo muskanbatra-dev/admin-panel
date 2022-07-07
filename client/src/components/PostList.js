@@ -9,6 +9,9 @@ const PostList = (props) => {
         <TextField source='title'/>
         <TextField source='price'/>
         <UrlField  source='image'/>
+        <EditButton basepath='/super-admin'/>
+        <DeleteButton basepath='/super-admin'/>
+        <CreateButton basepath='/super-admin'/>
     </Datagrid>
 
     </List>
