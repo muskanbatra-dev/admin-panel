@@ -6,7 +6,7 @@ const PostList = (props) => {
     <div><List{...props}>
     <Datagrid>
         <TextField source='id'/>
-        <TextField source='title'/>
+        <TextField source='name'/>
         <TextField source='price'/>
         <UrlField  source='image'/>
         <EditButton basepath='/super-admin'/>
